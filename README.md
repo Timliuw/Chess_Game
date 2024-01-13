@@ -1,6 +1,7 @@
 # CS246-Chess-Project
 
 **Summary**
+
 In our chess game project, the orchestration of gameplay is managed through the interplay of three main components:
 the Match object, the Board class, and the MyDisplay object, integrated via the Observer pattern. The Match object
 serves as the central hub, interpreting user inputs and connecting them to Player objects, thereby translating these
@@ -9,7 +10,8 @@ legality of moves. The implementation of the Observer pattern is pivotal, enabli
 game state changes and reflect these in both graphical and text-based displays. This design ensures a dynamic,
 responsive, and accurate representation of the game, providing a robust and interactive chess experience.
 
-**Some Bonus Feature in our chess game:**
+**Some Bonus Feature in our chess game**
+
 Memory Management with Smart Pointers: The game employs unique_ptr and shared_ptr for efficient memory
 management. The unique_ptr is used to manage the player/human/computer objects, ensuring that these pointers
 always refer to their designated objects without the possibility of alteration. In contrast, shared_ptr is utilized for the
@@ -27,6 +29,7 @@ prioritized over the rook, valued at 5 points. This strategic point-based system
 that maximize its advantage, making it a more challenging opponent.
 
 **How to run the code?**
+
 1. game white-player black-player starts a new game. The parameters white-player and black-player
 can be either human or computer[1-4].
 
