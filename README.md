@@ -10,6 +10,9 @@ legality of moves. The implementation of the Observer pattern is pivotal, enabli
 game state changes and reflect these in both graphical and text-based displays. This design ensures a dynamic,
 responsive, and accurate representation of the game, providing a robust and interactive chess experience.
 
+
+
+
 **Some Bonus Feature in our chess game**
 
 Memory Management with Smart Pointers: The game employs unique_ptr and shared_ptr for efficient memory
@@ -27,6 +30,10 @@ Level 4 Computer Intelligence: The third feature is the advanced Level 4 for the
 move based on the point value associated with the chess pieces. For example, the queen, valued at 9 points, is
 prioritized over the rook, valued at 5 points. This strategic point-based system enables the computer to make moves
 that maximize its advantage, making it a more challenging opponent.
+
+
+
+
 
 **How to run the code?**
 
