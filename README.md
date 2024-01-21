@@ -57,3 +57,13 @@ is replaced. The board should be redisplayed.
 no action.
 – = colour makes it colour’s turn to go next.
 – done leaves setup mode.
+
+
+**Here is the visulization (Graphic display) and the text-based (Text display) of the chess board **
+
+
+![image](https://github.com/Sam120204/Chess_Game/assets/75916625/2ba77649-35a3-48a4-b2d9-1a668ab2aaed)
+
+
+![image](https://github.com/Sam120204/Chess_Game/assets/75916625/5504de9f-3d8d-4934-9d64-39ce96ef5da3)
+
