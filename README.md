@@ -59,7 +59,7 @@ no action.
 – done leaves setup mode.
 
 
-**Here is the visulization (Graphic display) and the text-based (Text display) of the chess board **
+**Here is the visulization (Graphic display) and the text-based (Text display) of the chess board**
 
 
 ![image](https://github.com/Sam120204/Chess_Game/assets/75916625/2ba77649-35a3-48a4-b2d9-1a668ab2aaed)
